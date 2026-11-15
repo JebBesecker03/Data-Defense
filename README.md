@@ -58,8 +58,7 @@ switches by itself when the frame rate drops.
 
 The structure of this game, an army that fields itself while you command champions, cast spells
 and choose what to bring to each battle, was inspired by **Epic War 3 by Rudy Sudarto**. Thank you
-for a design that still holds up. Data Defense is an original game: its theme, units, names, art,
-numbers and battles are its own, and nothing was taken from Epic War.
+for a design that still holds up. 
 
 ## Status
 
