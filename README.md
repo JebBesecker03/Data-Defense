@@ -6,9 +6,19 @@ Your army of charts spawns by itself and marches on a corrupted data stack. You 
 your champions' specials, order units to retreat, hold or charge, cast spells, and choose which
 units, champions and spells to bring to each battle.
 
-**Play it:** https://jebbesecker03.github.io/Data-Defense/
+**Play it on Tableau Public:** https://public.tableau.com/app/profile/joseph.besecker/viz/DDTest_17946081470490/DataDefense#2
+
+That is a test link for now and will be replaced with the live one.
 
 ![A battle in Data Defense](screenshot.png)
+
+## Why this exists
+
+I wanted to see how far I could push Tableau Data Apps, and to have something to play around
+with while finding out. Apparently pretty far: a whole game, with a campaign, animation and
+music, runs inside a dashboard.
+
+## What this repository is
 
 This repository holds only the built game: one self-contained `index.html`, served with GitHub
 Pages so it can be embedded elsewhere (for example in a Tableau Public dashboard's Web Page object).
