@@ -11,6 +11,8 @@
   them, area highest. Shots leave from and arrive at those heights.
 - **Two families have their own shade** inside their side's one colour: Guard units are dark with
   pale trim, Marks are pale with coloured trim. The opponent is still always red.
+- **No glow on units.** Units and champions are painted without a glow. In a crowd the glows
+  piled up into a haze that hid the units; each keeps its thin dark rim.
 
 ### Fixed
 
