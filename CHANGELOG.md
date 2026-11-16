@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-11-16: sizes you can read
+
+### Changed
+
+- **Five tiers of size.** Units now run from tiny (a Point) to titan (the super units), with clear
+  gaps between the tiers, so a unit's size tells you what it is. Champions are the largest things
+  on the lane after the super units.
+- **Height layers.** Ranged units hover, each family at its own height: marks low, support above
+  them, area highest. Shots leave from and arrive at those heights.
+- **Two families have their own shade** inside their side's one colour: Guard units are dark with
+  pale trim, Marks are pale with coloured trim. The opponent is still always red.
+
+### Fixed
+
+- **Units drawn at the wrong size.** In Fast graphics (which Auto switches to when the frame rate
+  drops), and for some heavy units while walking, small and medium units were drawn up to three
+  times too large, so the army looked as if the size tiers had been undone. Ordering a charge made
+  it most visible, because walking units were the ones affected.
+
 ## 2026-11-14: the full game
 
 The game went from a six-unit prototype to a complete campaign.
